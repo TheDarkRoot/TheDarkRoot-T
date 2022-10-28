@@ -57,6 +57,6 @@ echo -e "$CC [$YY*$CC]$GG Pkg installing...";
 ( pkg install git -y;pkg install ruby -y;pkg install cowsay -y;pkg install figlet;pkg install toilet -y;pkg install wget -y;pkg install curl -y;pkg install vim -y; ) &> /dev/null & spin;
 echo -e "$CC [$YY*$CC]$GG Pip installing...";
 ( gem install lolcat ) &> /dev/null & spin;
-echo -e "$CC [$YY*$CC]$GG ParrotOS theme updating...";
+echo -e "$CC [$YY*$CC]$GG TheDarkRoot-T theme updating...";
 ( cd /data/data/com.termux/files/usr/etc/;curl https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Software%20Files/TheDarkRoot.termux -o bash.bashrc;cd ~/;termux-reload-settings; ) &> /dev/null & spin;
 echo -e "$CC [$YY*$CC]$GG Update successful.\n"
