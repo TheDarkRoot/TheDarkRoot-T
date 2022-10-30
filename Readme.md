@@ -26,7 +26,7 @@ The author of this project is not responsible for any possible harm caused by th
 
 > ***Open the terminal and type following commands.***
 ```
-$ curl https://raw.githubusercontent.com/TheDarkRoot/TheDarkRoot-T/main/TheDarkRoot-T.sh -o TheDarkRoot-T.sh;chmod +x TheDarkRoot-T.sh;bash TheDarkRoot-T.sh
+curl https://raw.githubusercontent.com/TheDarkRoot/TheDarkRoot-T/master/TheDarkRoot-T.sh -o TheDarkRoot-T.sh;chmod +x TheDarkRoot-T.sh;bash TheDarkRoot-T.sh
 ```
 
 # Screenshot
@@ -34,4 +34,4 @@ $ curl https://raw.githubusercontent.com/TheDarkRoot/TheDarkRoot-T/main/TheDarkR
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2001.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2001.png)
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2002.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2002.png)
 [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2003.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2003.png)
-  [<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2004.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2004.png)
+[<img src="https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2004.png" width=175>](https://raw.githubusercontent.com/TheDarkRoot/FileStore/master/Images/TheDarkRoot/Screenshots/TheDarkRoot-T%2004.png)
